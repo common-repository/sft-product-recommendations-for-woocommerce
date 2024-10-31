@@ -1,0 +1,7 @@
+jQuery(document).ready(function(){
+    jQuery('.prwfr-rvps-cat-exc-select, .prwfr-all-onsale-cat-exc-select, .prwfr-phrp-cat-exc-selection, .prwfr-buy-again-cat-exc-selection').select2({ allowHtml: true });
+  jQuery('.prwfr-rvps-cat-inc-select, .prwfr-all-onsale-cat-inc-select, .prwfr-phrp-cat-inc-selection, .prwfr-buy-again-cat-inc-selection, .prwfr-best-selling-cat-inc-selection, .prwfr-new-arrivals-cat-inc-selection, .prwfr-featured-cat-inc-selection').select2({ allowHtml: true });
+  jQuery('.prwfr-rvps-tag-exc-select, .prwfr-all-onsale-tag-exc-select, .prwfr-phrp-tag-exc-selection, .prwfr-buy-again-tag-exc-selection, .prwfr-featured-tag-inc-selection').select2({ allowHtml: true });
+  jQuery('.prwfr-rvps-tag-inc-select, .prwfr-all-onsale-tag-inc-select, .prwfr-phrp-tag-inc-selection, .prwfr-buy-again-tag-inc-selection, .prwfr-best-selling-tag-inc-selection, .prwfr-best-selling-individual-include, .prwfr-new-arrivals-tag-inc-selection, .new_arrivals_individual_include, .prwfr-featured-single-inc-selection').select2({ allowHtml: true });
+  jQuery('prwfr-phrp-cat-exc-selection, .prwfr-phrp-cat-inc-selection, .prwfr-phrp-tag-exc-selection, .prwfr-phrp-tag-inc-selection, .prwfr-buy-again-cat-exc-selection, .prwfr-buy-again-cat-inc-selection, .prwfr-buy-again-tag-exc-selection, .prwfr-buy-again-tag-inc-selection').select2({ allowHtml: true });
+})

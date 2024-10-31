@@ -1,0 +1,7 @@
+<wpml-config>
+    <admin-texts>
+      <key name="prwfr_rvps_title" />
+      <key name="prwfr_viewed_related_title" />
+      <key name="prwfr_rvps_onsale_title" />
+    </admin-texts>
+</wpml-config>

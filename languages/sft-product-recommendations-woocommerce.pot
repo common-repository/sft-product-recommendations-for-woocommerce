@@ -1,0 +1,1890 @@
+# Copyright (C) 2024 SaffireTech
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Product Recommendations for WooCommerce 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/sft-product-recommendations-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-05T10:45:35+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: sft-product-recommendations-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "AI Product Recommendations for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "It is used to display recently viewed products by users, sale on them, related products to recently viewed products."
+msgstr ""
+
+#. Author of the plugin
+msgid "SaffireTech"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.saffiretech.com"
+msgstr ""
+
+#: includes/prwfr-all-ajax-action.php:18
+#: includes/prwfr-all-ajax-action.php:317
+#: sft-product-recommendations-woocommerce.php:472
+msgid "Permission Denied."
+msgstr ""
+
+#: includes/prwfr-custom-functions.php:37
+#: includes/prwfr-custom-functions.php:261
+#: includes/prwfr-custom-functions.php:524
+#: includes/prwfr-setting-tabs.php:33
+#: includes/prwfr-setting-tabs.php:2521
+#: includes/prwfr-setting-tabs.php:2634
+#: includes/prwfr-setting-tabs.php:2744
+#: includes/prwfr-setting-tabs.php:2988
+#: sft-product-recommendations-woocommerce.php:60
+#: sft-product-recommendations-woocommerce.php:100
+#: sft-product-recommendations-woocommerce.php:126
+msgid "Nonce Not verified"
+msgstr ""
+
+#: includes/prwfr-custom-functions.php:74
+#: includes/prwfr-custom-functions.php:174
+#: includes/prwfr-recently-viewed-related-settings.php:98
+#: includes/prwfr-setting-tabs.php:62
+msgid "Recently Viewed Products"
+msgstr ""
+
+#: includes/prwfr-custom-functions.php:88
+#: includes/prwfr-custom-functions.php:187
+#: includes/prwfr-custom-functions.php:308
+#: includes/prwfr-custom-functions.php:425
+#: includes/prwfr-custom-functions.php:572
+#: includes/prwfr-custom-functions.php:711
+msgid "See more"
+msgstr ""
+
+#: includes/prwfr-custom-functions.php:94
+#: includes/prwfr-custom-functions.php:193
+#: includes/prwfr-custom-functions.php:313
+#: includes/prwfr-custom-functions.php:429
+#: includes/prwfr-custom-functions.php:577
+#: includes/prwfr-custom-functions.php:715
+msgid "Page no"
+msgstr ""
+
+#: includes/prwfr-custom-functions.php:96
+#: includes/prwfr-custom-functions.php:195
+#: includes/prwfr-custom-functions.php:311
+#: includes/prwfr-custom-functions.php:315
+#: includes/prwfr-custom-functions.php:431
+#: includes/prwfr-custom-functions.php:579
+#: includes/prwfr-custom-functions.php:717
+msgid "Start over"
+msgstr ""
+
+#: includes/prwfr-custom-functions.php:296
+#: includes/prwfr-custom-functions.php:411
+#: includes/prwfr-recently-viewed-related-settings.php:134
+msgid "Trending Deals"
+msgstr ""
+
+#: includes/prwfr-custom-functions.php:558
+#: includes/prwfr-custom-functions.php:698
+#: includes/prwfr-recently-viewed-related-settings.php:150
+msgid "Related to items you've viewed"
+msgstr ""
+
+#: includes/prwfr-custom-functions.php:1159
+msgid "Manage History"
+msgstr ""
+
+#: includes/prwfr-custom-functions.php:1160
+#: includes/prwfr-custom-functions.php:1827
+msgid "Turn On or Off Browsing History"
+msgstr ""
+
+#: includes/prwfr-custom-functions.php:1171
+msgid "Remove All Products"
+msgstr ""
+
+#: includes/prwfr-custom-functions.php:1191
+msgid "These items were viewed recently. We use them to personalise recommendations."
+msgstr ""
+
+#: includes/prwfr-custom-functions.php:1208
+msgid "You Have No Recently Viewed Items."
+msgstr ""
+
+#: includes/prwfr-custom-functions.php:1253
+msgid "You Have Not Viewed Any Product Yet!"
+msgstr ""
+
+#: includes/prwfr-custom-functions.php:1342
+#: includes/prwfr-custom-functions.php:1413
+#: includes/prwfr-custom-functions.php:1522
+#: includes/prwfr-custom-functions.php:1599
+msgid "Please View More Products!"
+msgstr ""
+
+#: includes/prwfr-custom-functions.php:1433
+#: includes/prwfr-custom-functions.php:1618
+msgid "You Have Not Browsed Any Product Yet!"
+msgstr ""
+
+#: includes/prwfr-custom-functions.php:1698
+msgid "Reorder"
+msgstr ""
+
+#: includes/prwfr-custom-functions.php:1820
+msgid "Manage Browsing history"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:23
+#: includes/prwfr-highlighting-features-setting.php:364
+#: includes/prwfr-highlighting-features-setting.php:709
+msgid "Default"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:27
+#: includes/prwfr-highlighting-features-setting.php:368
+#: includes/prwfr-highlighting-features-setting.php:713
+msgid "Categories"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:31
+#: includes/prwfr-highlighting-features-setting.php:372
+#: includes/prwfr-highlighting-features-setting.php:717
+msgid "Tags"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:35
+#: includes/prwfr-highlighting-features-setting.php:376
+#: includes/prwfr-highlighting-features-setting.php:721
+msgid "Individual pick"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:41
+#: includes/prwfr-highlighting-features-setting.php:383
+#: includes/prwfr-highlighting-features-setting.php:728
+msgid "This setting enables you to refine your product display with precision, allowing you to filter items based on categories, tags, or handpick specific products for a tailored showcase."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:62
+#: includes/prwfr-highlighting-features-setting.php:404
+#: includes/prwfr-highlighting-features-setting.php:748
+#: includes/prwfr-highlighting-features-setting.php:1384
+#: includes/prwfr-highlighting-features-setting.php:1419
+#: includes/prwfr-highlighting-features-setting.php:1540
+#: includes/prwfr-purchase-related-settings.php:232
+#: includes/prwfr-purchase-related-settings.php:590
+#: includes/prwfr-purchase-related-settings.php:622
+#: includes/prwfr-recently-viewed-related-settings.php:776
+#: includes/prwfr-recently-viewed-related-settings.php:826
+msgid "There are no categories to show. Please add some categories to products first!"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:74
+#: includes/prwfr-purchase-related-settings.php:275
+#: includes/prwfr-purchase-related-settings.php:634
+msgid "This setting allows you to select multiple categories to include products of that categories"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:94
+#: includes/prwfr-highlighting-features-setting.php:437
+#: includes/prwfr-highlighting-features-setting.php:783
+#: includes/prwfr-highlighting-features-setting.php:1491
+#: includes/prwfr-purchase-related-settings.php:325
+#: includes/prwfr-purchase-related-settings.php:357
+#: includes/prwfr-purchase-related-settings.php:684
+#: includes/prwfr-purchase-related-settings.php:713
+#: includes/prwfr-recently-viewed-related-settings.php:904
+#: includes/prwfr-recently-viewed-related-settings.php:951
+msgid "There are no tags to show. Please add some tags to products first!"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:108
+#: includes/prwfr-purchase-related-settings.php:369
+#: includes/prwfr-purchase-related-settings.php:724
+msgid "This setting allows you to select multiple tags to include products containing those tags"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:141
+#: includes/prwfr-highlighting-features-setting.php:493
+#: includes/prwfr-highlighting-features-setting.php:840
+msgid "There are no Products to show. Please add some products first!"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:153
+msgid "This setting allows you to select multiple products which will be displayed to the users."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:226
+msgid "This setting allows you to specify the number of products you wish to showcase within the \"Best Selling Products\" shortcode."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:245
+#: includes/prwfr-highlighting-features-setting.php:599
+#: includes/prwfr-highlighting-features-setting.php:948
+#: includes/prwfr-highlighting-features-setting.php:1140
+#: includes/prwfr-purchase-related-settings.php:51
+#: includes/prwfr-purchase-related-settings.php:410
+#: includes/prwfr-recently-viewed-related-settings.php:266
+#: includes/prwfr-recently-viewed-related-settings.php:406
+#: includes/prwfr-recently-viewed-related-settings.php:553
+msgid "Default page"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:249
+#: includes/prwfr-highlighting-features-setting.php:603
+#: includes/prwfr-highlighting-features-setting.php:952
+#: includes/prwfr-highlighting-features-setting.php:1144
+#: includes/prwfr-purchase-related-settings.php:55
+#: includes/prwfr-purchase-related-settings.php:414
+#: includes/prwfr-recently-viewed-related-settings.php:270
+#: includes/prwfr-recently-viewed-related-settings.php:410
+#: includes/prwfr-recently-viewed-related-settings.php:557
+msgid "Another page"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:255
+msgid "This setting lets you change the \"See more\" link to lead to a another page. By default, it goes to the default page. To display all products on a another page, create a new page, insert the shortcode [prwfr_best_selling_back], and in the settings, choose the \"Another page\" option. Then, select your preferred page from the dropdown below."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:261
+msgid "Use shortcode [prwfr_best_selling_back]"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:291
+#: includes/prwfr-highlighting-features-setting.php:636
+#: includes/prwfr-highlighting-features-setting.php:984
+#: includes/prwfr-highlighting-features-setting.php:1177
+#: includes/prwfr-purchase-related-settings.php:86
+#: includes/prwfr-recently-viewed-related-settings.php:302
+#: includes/prwfr-recently-viewed-related-settings.php:446
+#: includes/prwfr-recently-viewed-related-settings.php:590
+msgid "This setting allows you select the page where you've inserted the shortcode."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:306
+#: includes/prwfr-setting-tabs.php:2532
+msgid "Best Selling Products"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:310
+msgid "This setting enables you to specify the title you want to show for \"Best Selling Products\" widget and shortcode."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:333
+msgid "This setting allows you to display or hide \"Best Selling Products\" to users who are not logged in"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:346
+msgid "Use shortcode [prwfr_new_arrivals_front] to display \"New Arrivals\""
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:415
+#: includes/prwfr-highlighting-features-setting.php:760
+#: includes/prwfr-purchase-related-settings.php:244
+#: includes/prwfr-purchase-related-settings.php:602
+msgid "This setting allows you to select multiple categories to exclude products of that categories"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:462
+#: includes/prwfr-highlighting-features-setting.php:506
+#: includes/prwfr-highlighting-features-setting.php:808
+#: includes/prwfr-highlighting-features-setting.php:853
+#: includes/prwfr-highlighting-features-setting.php:1516
+#: includes/prwfr-purchase-related-settings.php:337
+#: includes/prwfr-purchase-related-settings.php:693
+msgid "This setting allows you to select multiple tags to exclude products containing those tags"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:579
+msgid "This setting allows you to specify the number of products you wish to showcase within the \"New Arrivals\" shortcode."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:609
+msgid "This setting lets you change the \"See more\" link to lead to a another page. By default, it goes to the default page. To display all products on a another page, create a new page, insert the shortcode [prwfr_new_arrivals_back], and in the settings, choose the \"Another page\" option. Then, select your preferred page from the dropdown below."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:615
+msgid "Use shortcode [prwfr_new_arrivals_back]"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:650
+msgid "New Arrivals"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:654
+msgid "This setting enables you to specify the title you want to show for \"New Arrivals\" widget and shortcode."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:679
+msgid "This setting allows you to display or hide \"Newly arrived Products\" to users who are not logged in"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:692
+msgid "Use shortcode [prwfr_featured_products_front] to display \"Featured Products\""
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:928
+msgid "This setting allows you to specify the number of products you wish to showcase within the \"Featured Products\" shortcode."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:959
+msgid "This setting lets you change the \"See more\" link to lead to a another page. By default, it goes to the default page. To display all products on a another page, create a new page, insert the shortcode [prwfr_featured_products_back], and in the settings, choose the \"Another page\" option. Then, select your preferred page from the dropdown below."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:965
+msgid "Use shortcode [prwfr_featured_products_back]"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:998
+#: includes/prwfr-setting-tabs.php:2533
+msgid "Featured Products"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1002
+msgid "This setting enables you to specify the title you want to show for \"Featured Products\" widget and shortcode."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1024
+msgid "This setting allows you to display or hide \"Featured Products\" to users who are not logged in"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1047
+#: includes/prwfr-highlighting-features-setting.php:1070
+#: includes/prwfr-highlighting-features-setting.php:1093
+#: includes/prwfr-highlighting-features-setting.php:1588
+#: includes/prwfr-purchase-related-settings.php:820
+#: includes/prwfr-recently-viewed-related-settings.php:1027
+#: includes/prwfr-recently-viewed-related-settings.php:1049
+#: includes/prwfr-recently-viewed-related-settings.php:1071
+msgid "This setting allows you to include or exclude out of stock products. By default all out of stock products are not shown."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1106
+msgid "Use shortcode [prwfr_all_onsale_products_front] to display \"All Onsale Products\""
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1119
+msgid "Blockbuster deals"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1123
+msgid "This setting enables you to specify the title you want to show for \"All products on Sale\" widget and shortcode."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1150
+msgid "This setting lets you change the \"See more\" link to lead to a another page. By default, it goes to the default page. To display all products on a another page, create a new page, insert the shortcode [prwfr_all_onsale_products_back], and in the settings, choose the \"Another page\" option. Then, select your preferred page from the dropdown below."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1156
+msgid "Use shortcode [prwfr_all_onsale_products_back]"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1250
+msgid "This setting allows you to specify the number of products you wish to showcase within the \"All On-Sale Products\" shortcode."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1272
+msgid "This setting allows you to display or hide \"All On-Sale Products\" to users who are not logged in"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1283
+#: includes/prwfr-purchase-related-settings.php:130
+#: includes/prwfr-purchase-related-settings.php:490
+#: includes/prwfr-recently-viewed-related-settings.php:674
+msgid "Filter products to display in the shortcode and widget based on categories and tags."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1302
+#: includes/prwfr-purchase-related-settings.php:149
+#: includes/prwfr-purchase-related-settings.php:506
+#: includes/prwfr-recently-viewed-related-settings.php:692
+msgid "This setting allows you to include or exclude certain products based on their categories or tags. By default all products are tracked."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1321
+#: includes/prwfr-purchase-related-settings.php:168
+#: includes/prwfr-purchase-related-settings.php:526
+msgid "Only Tags"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1325
+#: includes/prwfr-purchase-related-settings.php:172
+#: includes/prwfr-purchase-related-settings.php:530
+msgid "Only Categories"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1329
+#: includes/prwfr-purchase-related-settings.php:176
+#: includes/prwfr-purchase-related-settings.php:534
+msgid "Both"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1336
+#: includes/prwfr-purchase-related-settings.php:183
+#: includes/prwfr-purchase-related-settings.php:541
+#: includes/prwfr-recently-viewed-related-settings.php:727
+msgid "This setting allows you to pick either a category, a tag, or both."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1354
+#: includes/prwfr-purchase-related-settings.php:201
+#: includes/prwfr-purchase-related-settings.php:559
+#: includes/prwfr-recently-viewed-related-settings.php:746
+msgid "Exclude Categories"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1358
+#: includes/prwfr-purchase-related-settings.php:205
+#: includes/prwfr-purchase-related-settings.php:563
+#: includes/prwfr-recently-viewed-related-settings.php:750
+msgid "Include Categories"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1365
+#: includes/prwfr-recently-viewed-related-settings.php:757
+msgid "This setting allows you to choose \"Exclude Categories\" to remove products of those categories, and \"Include Categories\" to display products having those categories in the widget and shortcode.\""
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1399
+msgid "This setting allows you to  select multiple categories to exclude products containing categories"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1436
+msgid "This setting allows you to  select multiple categories to include products containing categories"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1457
+#: includes/prwfr-purchase-related-settings.php:294
+#: includes/prwfr-purchase-related-settings.php:652
+#: includes/prwfr-recently-viewed-related-settings.php:874
+msgid "Exclude Tags"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1461
+#: includes/prwfr-purchase-related-settings.php:298
+#: includes/prwfr-purchase-related-settings.php:656
+#: includes/prwfr-recently-viewed-related-settings.php:878
+msgid "Include Tags"
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1468
+#: includes/prwfr-recently-viewed-related-settings.php:885
+msgid "This setting allows you to choose \"Exclude Tags\" to remove products containing those tags, and \"Include Tags\" to display products containing those tags from the widget and shortcode."
+msgstr ""
+
+#: includes/prwfr-highlighting-features-setting.php:1565
+msgid "This setting allows you to  select multiple tags to include products containing those tags"
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:14
+msgid "Suggested Products from Past Purchases"
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:18
+msgid "This setting enables you to specify the title you want to show for \"Products related to Past Purchases\" widget and shortcode."
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:32
+msgid "Use shortcode [prwfr_past_purchase_related_products_front] to display \"Products related to Past Purchases\""
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:62
+msgid "This setting lets you change the \"See more\" link to lead to a another page. By default, it goes to the default page. To display all products on a another page, create a new page, insert the shortcode [prwfr_past_purchase_related_products_back], and in the settings, choose the \"Another page\" option. Then, select your preferred page from the dropdown below."
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:105
+#: includes/prwfr-purchase-related-settings.php:468
+msgid "30 days"
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:109
+msgid "60 days"
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:113
+msgid "90 days"
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:119
+msgid "This setting enables you to choose the number of days within which products purchased by the user and products related to it will be displayed."
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:212
+#: includes/prwfr-purchase-related-settings.php:570
+msgid "This setting allows you to choose \"Exclude Categories\" to remove products of those categories from the widget, and \"Include Categories\" to display products having those categories.\""
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:264
+msgid " There are no categories to show. Please add some categories to products first!"
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:305
+msgid "This setting allows you to choose \"Exclude tags\" to remove products of those tags, and \"Include Tags\" to display products having those tags from the widget and shortcode."
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:388
+msgid "Buy It Again"
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:392
+msgid "This setting enables you to specify the title you want to show for \"Buy again products\" widget and shortcode."
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:420
+msgid "This setting lets you change the \"See more\" link to lead to a another page. By default, it goes to the default page. To display all products on a another page, create a new page, insert the shortcode [prwfr_buy_it_again_back], and in the settings, choose the \"Another page\" option. Then, select your preferred page from the dropdown below."
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:446
+msgid "select page to render shortcode here"
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:464
+msgid "15 days"
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:472
+msgid "45 days"
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:479
+msgid "This setting allows you to set number of day after which the buyer's purchased product will show up in the widget and shortcode"
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:663
+msgid "This setting allows you to choose \"Exclude Tags\" to remove products of those tags, and \"Include tags\" to display products containing those tags from the widget and shortcode."
+msgstr ""
+
+#: includes/prwfr-purchase-related-settings.php:797
+msgid "This setting allows you to specify the number of products you wish to showcase within the \"Products related to Past Purchases\" shortcode."
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:19
+msgid "This setting allows you to display or hide \"Recently Viewed Products\" to users who are not logged in"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:39
+msgid "This setting allows you to display or hide \"On-Sale Products related to Recently Viewed Products\" to users who are not logged in"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:59
+msgid "This setting allows you to display or hide \"Products related to Recently Viewed Products\" to users who are not logged in"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:79
+msgid "This setting allows you to enable/disable Re-order button on Order detail page in My Account"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:101
+msgid "This setting enables you to specify the title you want to show for \"Recently Viewed Products\" widget and shortcode."
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:121
+msgid "This setting allows you to enable/disable Browsing History switch to user."
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:137
+msgid "This setting enables you to specify the title you want to show for \"On-Sale Products related to Recently Viewed Products\" widget and shortcode."
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:153
+msgid "This setting enables you to specify the title you want to show for \"Products related to Recently Viewed Products\" widget and shortcode."
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:172
+msgid "Enable this setting to display AI-generated product suggestions on the frontend using shortcodes. The AI will recommend relevant products based on your configuration, and these suggestions will appear in widgets for Recently Viewed Products and Purchase History."
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:187
+#: includes/prwfr-recently-viewed-related-settings.php:198
+#: includes/prwfr-recently-viewed-related-settings.php:219
+#: includes/prwfr-recently-viewed-related-settings.php:230
+#: includes/prwfr-setting-tabs.php:2862
+#: includes/prwfr-setting-tabs.php:2885
+#: includes/prwfr-setting-tabs.php:2891
+msgid "Add label"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:190
+#: includes/prwfr-recently-viewed-related-settings.php:201
+#: includes/prwfr-setting-tabs.php:2927
+msgid "This setting allows you to pick the color to change color of previous and next button within shortcode"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:222
+msgid "This setting allows you to pick the background color to change background color of products slider"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:233
+msgid "This setting allows you to pick the background color to change background color of prdoucts slider"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:248
+msgid "Use shortcode [prwfr_recently_viewed_products_front] to display \"Recently Viewed Products\""
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:276
+msgid "This setting lets you change the \"See more\" link to lead to a another page. By default, it goes to the default page. To display all products on a another page, create a new page, insert the shortcode [prwfr_recently_viewed_products_back], and in the settings, choose the \"Another page\" option. Then, select your preferred page from the dropdown below."
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:281
+msgid "Use shortcode [prwfr_recently_viewed_products_back]"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:375
+msgid "This setting allows you to specify the number of products you wish to showcase within the \"Recently Viewed Products\" shortcode."
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:388
+msgid "Use shortcode [prwfr_onsale_recently_viewed_products_front] to display \"On-Sale Products related to Recently Viewed Products\""
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:416
+msgid "This setting lets you change the \"See more\" link to lead to a another page. By default, it goes to the default page. To display all products on a another page, create a new page, insert the shortcode [prwfr_onsale_recently_viewed_products_back], and in the settings, choose the \"Another page\" option. Then, select your preferred page from the dropdown below."
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:423
+msgid "Use shortcode [prwfr_onsale_recently_viewed_products_back]"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:521
+msgid "This setting allows you to specify the number of products you wish to showcase within the \"On-Sale Products related to Recently Viewed Products\" product slider."
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:535
+msgid "Use shortcode [prwfr_related_recently_viewed_products_front] to display \"Products related to Recently Viewed Products\""
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:563
+msgid "\t This setting lets you change the \"See more\" link to lead to a different page. By default, it goes to the default page. To display all products on a different page, create a new page, insert the shortcode [prwfr_related_recently_viewed_products_back], and in the settings, choose the \"Another page\" option. Then, select your preferred page from the dropdown below."
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:569
+msgid "Use shortcode [prwfr_related_recently_viewed_products_back]"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:663
+msgid "This setting allows you to specify the number of products you wish to showcase within the \"Products related to Recently Viewed Products\" products slider."
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:712
+msgid "Tags Only"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:716
+msgid "Categories Only"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:720
+msgid "Categories and Tags"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:805
+msgid "This setting allows you to select multiple categories to exclude products of that categories from widget and shortcode"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:854
+msgid "This setting allows you to select multiple categories to include products of that categories in widget and shortcode"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:930
+msgid "This setting allows you to select multiple tags to exclude products containing those tags from widget and shortcode"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:981
+msgid "This setting allows you to select multiple tags to include products containing those tags in widget and shortcode"
+msgstr ""
+
+#: includes/prwfr-recently-viewed-related-settings.php:1004
+msgid "This setting allows you to select image size you wish to display to users"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:9
+msgid "Product Recommendations"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:10
+msgid "Post-Purchase Products"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:11
+msgid "Product Discovery Features"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:12
+msgid "General Settings"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:44
+#: includes/prwfr-setting-tabs.php:3254
+#: includes/prwfr-setting-tabs.php:3290
+#: includes/prwfr-setting-tabs.php:3452
+msgid "Monday"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:44
+#: includes/prwfr-setting-tabs.php:3254
+#: includes/prwfr-setting-tabs.php:3290
+#: includes/prwfr-setting-tabs.php:3452
+msgid "Tuesday"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:44
+#: includes/prwfr-setting-tabs.php:3254
+#: includes/prwfr-setting-tabs.php:3290
+#: includes/prwfr-setting-tabs.php:3452
+msgid "Wednesday"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:44
+#: includes/prwfr-setting-tabs.php:3254
+#: includes/prwfr-setting-tabs.php:3290
+#: includes/prwfr-setting-tabs.php:3452
+msgid "Thursday"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:44
+#: includes/prwfr-setting-tabs.php:3254
+#: includes/prwfr-setting-tabs.php:3290
+#: includes/prwfr-setting-tabs.php:3452
+msgid "Friday"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:44
+#: includes/prwfr-setting-tabs.php:3254
+#: includes/prwfr-setting-tabs.php:3290
+#: includes/prwfr-setting-tabs.php:3452
+msgid "Saturday"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:44
+#: includes/prwfr-setting-tabs.php:3254
+#: includes/prwfr-setting-tabs.php:3290
+#: includes/prwfr-setting-tabs.php:3452
+msgid "Sunday"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:63
+msgid "Products related to Recently Viewed Products"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:64
+msgid "On-Sale Products related to Recently Viewed Products"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:90
+msgid "AI Recommendations !"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:93
+msgid "Added configuration for Product Recommendations in the shortcode using ChatGPT"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:121
+#: includes/prwfr-setting-tabs.php:132
+#: includes/prwfr-setting-tabs.php:2581
+#: includes/prwfr-setting-tabs.php:2592
+#: includes/prwfr-setting-tabs.php:2692
+#: includes/prwfr-setting-tabs.php:2703
+#: includes/prwfr-setting-tabs.php:2804
+#: includes/prwfr-setting-tabs.php:2815
+msgid "Unlock Advanced Features For Product Recommendations"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:133
+#: includes/prwfr-setting-tabs.php:2593
+#: includes/prwfr-setting-tabs.php:2704
+#: includes/prwfr-setting-tabs.php:2816
+msgid "100% Risk-Free Money Back Guarantee!"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:134
+#: includes/prwfr-setting-tabs.php:2594
+#: includes/prwfr-setting-tabs.php:2705
+#: includes/prwfr-setting-tabs.php:2817
+msgid "We guarantee you a complete refund for new purchases or renewals if a request is made within 15 Days of purchase."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:138
+#: includes/prwfr-setting-tabs.php:2553
+#: includes/prwfr-setting-tabs.php:2598
+#: includes/prwfr-setting-tabs.php:2664
+#: includes/prwfr-setting-tabs.php:2709
+#: includes/prwfr-setting-tabs.php:2776
+#: includes/prwfr-setting-tabs.php:2821
+msgid "Upgrade To Pro!"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:146
+#: includes/prwfr-setting-tabs.php:2606
+#: includes/prwfr-setting-tabs.php:2717
+#: includes/prwfr-setting-tabs.php:2829
+msgid "Pro Features"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:148
+#: includes/prwfr-setting-tabs.php:2608
+#: includes/prwfr-setting-tabs.php:2719
+#: includes/prwfr-setting-tabs.php:2831
+msgid "AI powered Product Recommendations:"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:148
+#: includes/prwfr-setting-tabs.php:2608
+#: includes/prwfr-setting-tabs.php:2719
+#: includes/prwfr-setting-tabs.php:2831
+#: sft-product-recommendations-woocommerce.php:183
+msgid "Leverage the power of ChatGPT to create personalized product recommendations for your customers."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:149
+#: includes/prwfr-setting-tabs.php:2609
+#: includes/prwfr-setting-tabs.php:2720
+#: includes/prwfr-setting-tabs.php:2832
+msgid "\"Recommended Products\" Emails  based on Browsing History:"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:149
+#: includes/prwfr-setting-tabs.php:2609
+#: includes/prwfr-setting-tabs.php:2720
+#: includes/prwfr-setting-tabs.php:2832
+#: sft-product-recommendations-woocommerce.php:185
+msgid "Customers get \"Recommended Products\" email notifications based on their browsing history."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:150
+#: includes/prwfr-setting-tabs.php:2610
+#: includes/prwfr-setting-tabs.php:2721
+#: includes/prwfr-setting-tabs.php:2833
+msgid "\"Price Drop\" Email Alerts for your Featured Sale Items:"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:150
+#: includes/prwfr-setting-tabs.php:2610
+#: includes/prwfr-setting-tabs.php:2721
+#: includes/prwfr-setting-tabs.php:2833
+#: sft-product-recommendations-woocommerce.php:187
+msgid "Sends \"Price Drop\" email to customers on products marked as \"Featured Sale Item\" at specified intervals of your choice."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:151
+#: includes/prwfr-setting-tabs.php:2611
+#: includes/prwfr-setting-tabs.php:2722
+#: includes/prwfr-setting-tabs.php:2834
+msgid "\"Buy It Again\" Widget & Purchase History Related items:"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:151
+#: includes/prwfr-setting-tabs.php:2611
+#: includes/prwfr-setting-tabs.php:2722
+#: includes/prwfr-setting-tabs.php:2834
+#: sft-product-recommendations-woocommerce.php:189
+msgid "Display previously bought items and similar items to your customers to boost repeat orders or similar orders."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:152
+#: includes/prwfr-setting-tabs.php:2612
+#: includes/prwfr-setting-tabs.php:2723
+#: includes/prwfr-setting-tabs.php:2835
+msgid "Product Discovery Widgets:"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:152
+#: includes/prwfr-setting-tabs.php:2612
+#: includes/prwfr-setting-tabs.php:2723
+#: includes/prwfr-setting-tabs.php:2835
+#: sft-product-recommendations-woocommerce.php:191
+msgid "Attract customers with the latest arrivals, top performers, and spotlighted items using customizable widgets."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:153
+#: includes/prwfr-setting-tabs.php:2613
+#: includes/prwfr-setting-tabs.php:2724
+#: includes/prwfr-setting-tabs.php:2836
+msgid "Customization options for All Widgets:"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:153
+#: includes/prwfr-setting-tabs.php:2613
+#: includes/prwfr-setting-tabs.php:2724
+#: includes/prwfr-setting-tabs.php:2836
+#: sft-product-recommendations-woocommerce.php:193
+msgid "Get a plethora of options to customize widget like Star Ratings, Title, Sale Price etc."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:164
+msgid "AI PRODUCT RECOMMENDATIONS"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:170
+msgid "AI General Settings"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:173
+msgid "Choose how frequently you want to receive AI product recommendations, whether as a one-time update or on a weekly basis. You can also set a specific date and time for generating and applying the suggestions."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:177
+msgid "How often should recommendations be generated?"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:181
+#: includes/prwfr-setting-tabs.php:3389
+msgid "One-Time"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:185
+#: includes/prwfr-setting-tabs.php:3399
+#: includes/prwfr-setting-tabs.php:3424
+msgid "Weekly"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:189
+#: includes/prwfr-setting-tabs.php:205
+#: includes/prwfr-setting-tabs.php:246
+#: includes/prwfr-setting-tabs.php:297
+#: includes/prwfr-setting-tabs.php:374
+#: includes/prwfr-setting-tabs.php:425
+#: includes/prwfr-setting-tabs.php:452
+#: includes/prwfr-setting-tabs.php:510
+msgid "Complete Feature Available in "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:191
+#: includes/prwfr-setting-tabs.php:207
+#: includes/prwfr-setting-tabs.php:248
+#: includes/prwfr-setting-tabs.php:268
+#: includes/prwfr-setting-tabs.php:299
+#: includes/prwfr-setting-tabs.php:376
+#: includes/prwfr-setting-tabs.php:427
+#: includes/prwfr-setting-tabs.php:454
+#: includes/prwfr-setting-tabs.php:512
+msgid "Pro Version"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:201
+msgid "On which day and at what time should recommendations be generated?"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:238
+msgid "Do you want to directly save the recommendations made by AI?"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:242
+msgid "Yes, save recommendations automatically"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:255
+msgid "No, I want to review the recommendations before saving them"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:262
+msgid "Provide an email address to receive notifications when recommendations are ready"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:266
+msgid "Available in "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:280
+msgid "Product Selection Settings"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:283
+msgid "Select specific products or categories for the AI to generate product recommendations."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:288
+msgid "Select specific products or categories for AI recommendations"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:293
+msgid "Select Categories"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:306
+msgid "Select products"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:314
+#: includes/prwfr-setting-tabs.php:2018
+#: includes/prwfr-setting-tabs.php:2108
+#: includes/prwfr-setting-tabs.php:2198
+msgid "Choose Categories"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:341
+msgid "Select specific products to be included in the recommendations"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:343
+msgid "You can select only"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:343
+msgid "5 Products"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:370
+msgid "Select product details For AI Prompt"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:385
+msgid "Product URL"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:389
+msgid "Product Name"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:393
+msgid "Product Price"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:397
+msgid "Product Description( Short Description )"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:401
+msgid "Product Description( Long Description )"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:405
+msgid "Product Category"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:415
+msgid "Set Number of Product Suggestions per Product"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:419
+msgid "Choose the number of suggestions you want to have for each Product."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:438
+msgid "Please enter a number between 1 and 10."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:444
+msgid "Product Sales Data Settings"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:447
+msgid "Include your store's  sales data in AI-generated suggestions to enhance the relevance of recommendations by suggesting products that are often purchased together."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:463
+msgid "Include your store's sales data to receive the best recommendations."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:471
+msgid "Describe Your Store"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:474
+msgid "Provide a description of your store to help the AI generate more tailored product recommendations based on your business needs."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:484
+msgid "Save Settings"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:485
+#: includes/prwfr-setting-tabs.php:767
+msgid "Reset Settings"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:486
+msgid "Undo Changes"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:492
+msgid "AI Prompt"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:495
+msgid "The default prompt is set to work seamlessly with Products but you can choose to edit the default prompt and add your own custom prompt if required."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:502
+msgid "Use Default Prompt"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:506
+msgid "Customize Default Prompt"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:525
+msgid "Use placeholder {all_products} to use all products in prompt "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:529
+msgid "Use placeholder {selected_categories} to use selected categories in prompt"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:532
+msgid "Use placeholder {selected_products} to use selected products in prompt"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:535
+msgid "Use placeholder {fbt_products} to use Sales data in prompt "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:538
+#: includes/prwfr-setting-tabs.php:854
+msgid "Create Request"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:574
+msgid "Please Enter Your Valid API Key First !"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:579
+#: includes/prwfr-setting-tabs.php:1015
+msgid "Configure API Key"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:743
+msgid "Resetting.."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:830
+msgid "Requesting......."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:845
+msgid "Your request was initiated successfully!"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:856
+msgid "Please ensure that all required fields are selected before submitting your request."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:861
+#: includes/prwfr-setting-tabs.php:875
+msgid "tokens will be used out of 4096"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1010
+msgid "Your API token credit limit has expired !"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1014
+msgid "Renew Credits"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1041
+#: includes/prwfr-setting-tabs.php:1058
+#: includes/prwfr-setting-tabs.php:1075
+#: includes/prwfr-setting-tabs.php:1092
+msgid "Text Copied!"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1197
+msgid "Slider Background Color"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1206
+msgid "Slider Button Color"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1214
+msgid "Select Button Arrow Icon Color"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1222
+msgid "Display rating in Products Slider"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1241
+msgid "Upload Logo for Email Header "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1249
+msgid "Select \"Learn more\" CTA Color for Email"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1257
+msgid "Enable GDPR Integration"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1265
+msgid "Choose Background for Email Template Header"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1278
+msgid "Display Re-Order button"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1306
+msgid "Allow Users to Turn Off Browsing History"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1315
+#: includes/prwfr-setting-tabs.php:1455
+#: includes/prwfr-setting-tabs.php:1536
+#: includes/prwfr-setting-tabs.php:1602
+#: includes/prwfr-setting-tabs.php:1727
+#: includes/prwfr-setting-tabs.php:1832
+#: includes/prwfr-setting-tabs.php:1962
+#: includes/prwfr-setting-tabs.php:2052
+#: includes/prwfr-setting-tabs.php:2142
+msgid "\"See More\" Page"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1324
+#: includes/prwfr-setting-tabs.php:1464
+#: includes/prwfr-setting-tabs.php:1545
+#: includes/prwfr-setting-tabs.php:1610
+#: includes/prwfr-setting-tabs.php:1735
+#: includes/prwfr-setting-tabs.php:1841
+#: includes/prwfr-setting-tabs.php:1970
+#: includes/prwfr-setting-tabs.php:2060
+#: includes/prwfr-setting-tabs.php:2150
+msgid "Choose page title"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1333
+#: includes/prwfr-setting-tabs.php:1473
+#: includes/prwfr-setting-tabs.php:1554
+msgid "Products Per Row"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1342
+#: includes/prwfr-setting-tabs.php:1482
+#: includes/prwfr-setting-tabs.php:1563
+#: includes/prwfr-setting-tabs.php:1626
+#: includes/prwfr-setting-tabs.php:1743
+#: includes/prwfr-setting-tabs.php:1859
+#: includes/prwfr-setting-tabs.php:1986
+#: includes/prwfr-setting-tabs.php:2076
+#: includes/prwfr-setting-tabs.php:2166
+msgid "Title for Widget"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1350
+msgid "Remove Out-of-Stock Products"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1359
+#: includes/prwfr-setting-tabs.php:2002
+#: includes/prwfr-setting-tabs.php:2092
+#: includes/prwfr-setting-tabs.php:2182
+msgid "Hide Recently Viewed Products for Non-Logged Users"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1368
+#: includes/prwfr-setting-tabs.php:1650
+#: includes/prwfr-setting-tabs.php:1759
+#: includes/prwfr-setting-tabs.php:1885
+msgid "Filter by Categories and Tags"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1377
+#: includes/prwfr-setting-tabs.php:1658
+#: includes/prwfr-setting-tabs.php:1767
+#: includes/prwfr-setting-tabs.php:1893
+msgid "Filter Mode"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1386
+#: includes/prwfr-setting-tabs.php:1666
+#: includes/prwfr-setting-tabs.php:1775
+#: includes/prwfr-setting-tabs.php:1902
+msgid "Category Filter Mode"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1394
+#: includes/prwfr-setting-tabs.php:1674
+#: includes/prwfr-setting-tabs.php:1783
+#: includes/prwfr-setting-tabs.php:1910
+msgid "Categories to Exclude"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1402
+#: includes/prwfr-setting-tabs.php:1682
+#: includes/prwfr-setting-tabs.php:1791
+#: includes/prwfr-setting-tabs.php:1918
+msgid "Categories to Include"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1412
+#: includes/prwfr-setting-tabs.php:1690
+#: includes/prwfr-setting-tabs.php:1799
+#: includes/prwfr-setting-tabs.php:1927
+msgid "Tag Filter Mode"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1420
+#: includes/prwfr-setting-tabs.php:1698
+#: includes/prwfr-setting-tabs.php:1807
+#: includes/prwfr-setting-tabs.php:1935
+msgid "Tags to Exclude"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1428
+#: includes/prwfr-setting-tabs.php:1706
+#: includes/prwfr-setting-tabs.php:1815
+#: includes/prwfr-setting-tabs.php:1943
+msgid "Tags to Include"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1490
+msgid "Display AI Product Recommendations in Widget"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1498
+#: includes/prwfr-setting-tabs.php:1571
+#: includes/prwfr-setting-tabs.php:1634
+#: includes/prwfr-setting-tabs.php:1867
+#: includes/prwfr-setting-tabs.php:1994
+#: includes/prwfr-setting-tabs.php:2084
+#: includes/prwfr-setting-tabs.php:2174
+msgid "Remove Out-Of-Stock Products"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1507
+msgid "Hide Products related to Recently Viewed Products for Non-Logged Users"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1580
+msgid "Hide On-Sale Products related to Recently Viewed Products for Non-Logged Users"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1618
+#: includes/prwfr-setting-tabs.php:1850
+#: includes/prwfr-setting-tabs.php:1978
+#: includes/prwfr-setting-tabs.php:2068
+#: includes/prwfr-setting-tabs.php:2158
+msgid "Products per row"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1642
+msgid "Purchase History Period"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1751
+msgid "Number of Days after Purchase"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:1876
+msgid "Hide All On-Sale Products for Non-Logged Users"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2010
+#: includes/prwfr-setting-tabs.php:2100
+#: includes/prwfr-setting-tabs.php:2190
+msgid "Product Display Filter"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2026
+#: includes/prwfr-setting-tabs.php:2116
+#: includes/prwfr-setting-tabs.php:2206
+msgid "Choose tags"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2034
+#: includes/prwfr-setting-tabs.php:2124
+#: includes/prwfr-setting-tabs.php:2214
+msgid "Choose individual products"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2232
+msgid "Send Emails"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2240
+msgid "Select Email Trigger"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2248
+#: includes/prwfr-setting-tabs.php:2290
+#: includes/prwfr-setting-tabs.php:2362
+#: includes/prwfr-setting-tabs.php:2445
+#: includes/prwfr-setting-tabs.php:2453
+msgid "Schedule Emails to be Sent"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2256
+msgid "Schedule One-time Event"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2264
+msgid "Schedule Event Daily"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2272
+#: includes/prwfr-setting-tabs.php:2298
+#: includes/prwfr-setting-tabs.php:2370
+msgid "Schedule Event Every Week"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2280
+#: includes/prwfr-setting-tabs.php:2306
+#: includes/prwfr-setting-tabs.php:2386
+msgid "Schedule Event Every Month"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2314
+#: includes/prwfr-setting-tabs.php:2378
+msgid "Schedule Event Fortnightly"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2322
+#: includes/prwfr-setting-tabs.php:2394
+#: includes/prwfr-setting-tabs.php:2461
+msgid "Add Header to Email"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2330
+#: includes/prwfr-setting-tabs.php:2402
+#: includes/prwfr-setting-tabs.php:2469
+msgid "Include Content to Email"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2330
+#: includes/prwfr-setting-tabs.php:2402
+#: includes/prwfr-setting-tabs.php:2469
+msgid "Use placeholder {First_name} to display First name"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2333
+#: includes/prwfr-setting-tabs.php:2405
+#: includes/prwfr-setting-tabs.php:2472
+msgid "Use placeholder {Last_name} to display Last name"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2336
+#: includes/prwfr-setting-tabs.php:2408
+#: includes/prwfr-setting-tabs.php:2475
+msgid "Use placeholder {User_name} to display User name"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2354
+#: includes/prwfr-setting-tabs.php:2429
+msgid "Send Email"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2437
+msgid "Email Recurrence Interval"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2491
+msgid "The product filter applied for 'Recently Viewed Products' will be effective on 'Products related to Recently Viewed Products"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2505
+msgid "The product filter applied for 'Recently Viewed Products' will be effective on 'On-Sale Products related to Recently Viewed Products"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2531
+msgid "All Products On-Sale"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2534
+msgid "Newly Arrived Products"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2643
+msgid "Re-order"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2644
+msgid "Purchase History Related Products  "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2645
+msgid "Buy-it Again Products  "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2753
+msgid "General"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2754
+msgid "Email Template Settings"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2755
+msgid "Recently viewed products"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2756
+msgid "Price Drop Email Notification"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2757
+msgid "New Recommendations Email Notification"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2869
+msgid "This setting allows you to pick the background color to change background color of custom email template"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2898
+msgid "This setting allows you to pick the color to change color of learn more CTA in email"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2944
+msgid "By checking this, it will show up confirmation text below the email id on checkout page."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2960
+msgid "Weekly "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2964
+msgid "Fortnightly "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2967
+msgid "Monthly "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:2971
+msgid "This setting allows you to schedule an email notification to be sent to the user according to the trigger set."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3015
+msgid "This setting allows you to set your company's logo, which will be displayed in the header of the custom email template."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3043
+#: includes/prwfr-setting-tabs.php:3126
+#: includes/prwfr-setting-tabs.php:3151
+#: includes/prwfr-setting-tabs.php:3164
+#: includes/prwfr-setting-tabs.php:3188
+msgid "This setting allows you to add content body for the custom email template."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3056
+msgid "This setting allows you to set the subject for the custom email template."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3072
+#: includes/prwfr-setting-tabs.php:3572
+#: includes/prwfr-setting-tabs.php:3588
+msgid "This setting allows you to choose whether to send emails to users or not."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3085
+msgid "7 Days "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3088
+msgid "15 Days "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3091
+msgid "30 Days "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3095
+msgid "This setting allows you to choose the recurrence interval after which the next email will be sent to the user."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3113
+msgid "This setting allows you to specify the time at which you want to send emails to users."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3203
+msgid "This setting allows you to schedule a one-time event that will trigger an email notification only once according to the provided date and time."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3217
+msgid "All Customers"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3222
+msgid "Users with Recently Viewed Products"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3226
+#: includes/prwfr-setting-tabs.php:3243
+msgid "This setting allows you to choose whether to send emails to all users or only to those who have recently viewed products on your site."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3258
+#: includes/prwfr-setting-tabs.php:3457
+msgid "Day of the Week:"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3275
+msgid "Time:"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3280
+#: includes/prwfr-setting-tabs.php:3317
+msgid "This setting allows you to choose a day of the week when you want to schedule email notifications."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3295
+msgid "Day of the Week: "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3312
+#: includes/prwfr-setting-tabs.php:3333
+#: includes/prwfr-setting-tabs.php:3474
+msgid "Time: "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3330
+#: includes/prwfr-setting-tabs.php:3353
+msgid "Select the nth day of the month: "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3338
+#: includes/prwfr-setting-tabs.php:3361
+#: includes/prwfr-setting-tabs.php:3504
+#: includes/prwfr-setting-tabs.php:3520
+msgid "This setting allows you to choose the day of the month on which to schedule an email to be sent once a month."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3375
+msgid "This setting allows you to schedule an email to be sent after every 15 days."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3394
+msgid "Daily"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3404
+#: includes/prwfr-setting-tabs.php:3436
+msgid "Monthly"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3408
+msgid "This setting allows you to schedule an email to be sent One-time, Daily, Weekly and Monthly."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3430
+msgid "Fortnightly"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3440
+#: includes/prwfr-setting-tabs.php:3479
+msgid "This setting allows you to schedule an email to be sent Weekly, After 15days and Monthly."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3496
+msgid "Select the nth day of the month:"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3531
+msgid "After "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3533
+msgid " Hours "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3537
+#: includes/prwfr-setting-tabs.php:3555
+msgid "This setting allows you to choose the hours of the day to schedule an email to be sent every 'n' hours if a user has viewed a new batch of products."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3548
+msgid "After Every "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3550
+msgid "  Days at "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3601
+msgid "After X Hours "
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3605
+msgid "After X Days"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3610
+msgid "This setting allows you to schedule an email to be sent every 'n' hours or 'n' days."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3713
+msgid "API Key is required to fetch models"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3769
+msgid "It looks like you don't have access to the ChatGPT model with your current API key."
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3770
+msgid "To resolve this please check your subscription by visiting the"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3770
+msgid "billing"
+msgstr ""
+
+#: includes/prwfr-setting-tabs.php:3770
+msgid "page."
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:82
+msgid "Free version deactivated Pro version Installed"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:171
+msgid "ShortCode Copied"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:172
+msgid "To save your changes, you must choose tags or categories within the 'include/exclude' field or disable the 'Filter by Categories and tags' switch."
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:173
+msgid "Please choose a custom page to apply the modifications for Recently Viewed Products."
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:174
+msgid "Please choose a custom page to apply the modifications for Products related to Recently Viewed Products."
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:175
+msgid "Please choose a custom page to apply the modifications for On-Sale Products related to Recently Viewed Products."
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:177
+msgid "Pro Field Alert !"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:178
+msgid "This field is available with pro version of Product Recommendations for woocommerce"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:179
+msgid "Upgrade Now!"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:180
+msgid "Looking for this cool feature? Go Pro!"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:181
+msgid "Go with our premium version to unlock the following features:"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:182
+msgid "AI powered Product Recommendations: "
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:184
+msgid "\"Recommended Products\" Emails based on Browsing History: "
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:186
+msgid "\"Price Drop\" Email Alerts for your Featured Sale Items: "
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:188
+msgid "\"Buy It Again\" Widget & Purchase History Related items: "
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:190
+msgid "Product Discovery Widgets: "
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:192
+msgid "Customization options for All Widgets: "
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:350
+msgid "Sorry, but 'Product Recommendations for woocommerce ' plugin requires the Woocommerce Plugin to be installed and active."
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:369
+msgid "Settings"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:370
+msgid "UpGrade to Pro!"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:423
+msgid "Awesome, you've been using"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:423
+msgid "for more than 1 week"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:424
+msgid "If you like our plugin would you like to rate our plugin at WordPress.org ?"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:426
+msgid "Yes, I'd like to rate it!"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:429
+msgid "I already did!"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:1018
+#: sft-product-recommendations-woocommerce.php:1037
+#: sft-product-recommendations-woocommerce.php:1049
+#: sft-product-recommendations-woocommerce.php:1061
+#: sft-product-recommendations-woocommerce.php:1075
+msgid "Product Recommendations for WooCommerce"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:1020
+msgid "Your request is currently being processed. We appreciate your patience and will notify you as soon as it's ready!"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:1023
+msgid "Actions you can perform: "
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:1023
+msgid "Reload Page"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:1040
+msgid "We're sorry, but your current request could not be processed due to insufficient quota remaining on your API key. It appears that you have used up most of your allocated quota. Please check your API usage or consider upgrading your plan."
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:1052
+msgid "Your API Key is incorrect! Please double-check your entry and try again."
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:1064
+msgid "Unfortunately, we were unable to fulfill your request at this time because the API system is currently experiencing heavy load. Our servers are working at full capacity. Please try again in a few moments when the system has stabilized."
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:1078
+msgid "Your request has been successfully fulfilled!"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:1134
+msgid "🎉 Exciting New AI Features in AI Product Recommendations for WooCommerce (v2.0.0) !"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:1138
+msgid "We’re excited to launch the latest update to our AI Product Recommendations for WooCommerce Plugin, leveraging Chat GPT technology to revolutionize how you connect with your customers. This update enhances your eCommerce platform by offering more precise and relevant product suggestions, designed to increase your Average Order Value (AOV) and boost your sales."
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:1141
+msgid "What’s New:"
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:1143
+msgid "Get AI-powered personalized product suggestions tailored to each customer's browsing and purchase history."
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:1144
+msgid "Get Recently Viewed Products Email Notifications that remind users about their top 5 priciest viewed items, sent after specific hours to drive conversions."
+msgstr ""
+
+#: sft-product-recommendations-woocommerce.php:1151
+msgid " Click here to view"
+msgstr ""
